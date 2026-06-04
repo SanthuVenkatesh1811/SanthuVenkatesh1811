@@ -34,12 +34,12 @@
 
 I am **Santhu Venkatesh Yellumahanti**, an **AI Automation Tester, QA Lead, Customer Success Lead, and No-Code Product Builder** with **6+ years of experience** across quality engineering, healthcare technology, enterprise platforms, customer success, and product adoption.
 
-I enjoy working at the intersection of **business, product, customers, and technology**. My strength is translating real-world problems into practical solutions, validating them with users, and turning ideas into working prototypes using **AI tools, no-code platforms, automation thinking, and vibe coding**.
+I enjoy working at the intersection of **business, product, customers, and technology**. My strength is translating real-world problems into practical solutions, validating them with users, and turning ideas into working prototypes using **AI-assisted development, agentic AI workflows, no-code platforms, automation thinking, rapid prototyping, and vibe coding**.
 
 - 🧪 I build and lead QA practices that improve product reliability, release confidence, and user trust.
-- 🤖 I explore AI-powered automation workflows to make testing, documentation, and product operations faster.
+- 🤖 I explore AI-powered automation, agentic AI workflows, and AI-assisted development to make testing, documentation, and product operations faster.
 - 🏥 I have hands-on experience with healthcare technology, hospital systems, asset tracking, and enterprise workflows.
-- 🚀 I use tools like ChatGPT, Claude, Cursor, Lovable, Bolt.new, Replit, and Figma to move from idea to demo quickly.
+- 🚀 I use tools like ChatGPT, Claude, Cursor, Codex, Antigravity, Lovable, Bolt.new, Replit, and Figma for vibe coding and rapid prototyping.
 - 🤝 I bridge product teams, customers, business stakeholders, and engineering teams with clear communication.
 - 🧠 I am passionate about product discovery, customer-centric thinking, digital transformation, and AI adoption.
 
@@ -94,13 +94,18 @@ I enjoy working at the intersection of **business, product, customers, and techn
 
 ## 🧰 Tech & AI Toolkit
 
-### 🤖 AI & Productivity
+### 🤖 AI Engineering & Productivity
+
+Building AI-powered workflows, automation systems, prototypes, and productivity solutions using modern AI-assisted development tools.
 
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/ChatGPT-70A5FD?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-BF91F3?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Cursor-38BDF8?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-70A5FD?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Codex-BF91F3?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Antigravity-38BDF8?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Lovable-70A5FD?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable" />
 </p>
 
 ### 🎨 Prototyping & Design
