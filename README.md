@@ -153,21 +153,26 @@ I enjoy working at the intersection of **business, product, customers, and techn
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanthuVenkatesh1811&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Santhu Venkatesh Yellumahanti GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=SanthuVenkatesh1811&theme=tokyonight&hide_border=true" alt="Santhu Venkatesh Yellumahanti GitHub streak stats" />
-  <br />
-  <br />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthuVenkatesh1811&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Santhu Venkatesh Yellumahanti top languages" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SanthuVenkatesh1811&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanthuVenkatesh1811&theme=tokyonight" />
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SanthuVenkatesh1811&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanthuVenkatesh1811&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="100%" alt="Santhu Venkatesh Yellumahanti GitHub trophies" />
-</div>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=SanthuVenkatesh1811&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
