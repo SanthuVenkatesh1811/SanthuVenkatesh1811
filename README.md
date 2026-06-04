@@ -13,10 +13,24 @@
   </h1>
 
   <a href="https://git.io/typing-svg">
-    <img width="100%" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=900&color=70A5FD&center=true&vCenter=true&width=900&lines=AI+Automation+Tester;QA+Lead;Customer+Success+Lead;Healthcare+Tech+Enthusiast;No-Code+Product+Builder;Vibe+Coding+Explorer" alt="Typing animation showing professional roles" />
+    <img width="100%" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=900&color=70A5FD&center=true&vCenter=true&width=980&lines=AI+Automation+Tester+%E2%80%A2+QA+Lead+%E2%80%A2+Customer+Success+Lead+%E2%80%A2+No-Code+Product+Builder+%E2%80%A2+Healthcare+Technology+Professional" alt="Typing animation showing professional roles" />
   </a>
 
   <br />
+  <br />
+
+  <p align="center">
+    <strong>🏆 6+ Years Experience</strong> •
+    <strong>🤖 AI Automation & Agentic Workflows</strong> •
+    <strong>✅ QA Leadership</strong>
+  </p>
+
+  <p align="center">
+    <strong>🏥 Healthcare Technology Solutions</strong> •
+    <strong>🚀 No-Code Product Building</strong> •
+    <strong>💡 Customer Success Leadership</strong>
+  </p>
+
   <br />
 
   <a href="https://www.linkedin.com/in/venkatesh-santhu-yellumahanti-558415117/">
