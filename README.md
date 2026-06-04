@@ -12,9 +12,9 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="Waving hand" />
   </h1>
 
-  <a href="https://git.io/typing-svg">
-    <img width="100%" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=900&color=70A5FD&center=true&vCenter=true&width=980&lines=AI+Automation+Tester+%E2%80%A2+QA+Lead+%E2%80%A2+Customer+Success+Lead+%E2%80%A2+No-Code+Product+Builder+%E2%80%A2+Healthcare+Technology+Professional" alt="Typing animation showing professional roles" />
-  </a>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=70A5FD&center=true&vCenter=true&width=1200&lines=AI+Automation+Tester;QA+Lead;Customer+Success+Lead;No-Code+Product+Builder;Healthcare+Technology+Professional" alt="Typing SVG" />
+  </p>
 
   <br />
   <br />
